@@ -9,16 +9,17 @@ Flexibility: Adapts to different numbers of students, courses, and time constrai
 Visualization: Provides insights into the scheduling process and results.
 
 ## Prerequisites
-Python 3.x
-Jupyter Notebook
-Required Python libraries:
-numpy
-pandas
-matplotlib
+##### Python 3.x
+##### Jupyter Notebook
+
+### Required Python libraries:
+##### numpy
+##### pandas
+##### matplotlib
 
 ### Clone the repository:
-git clone https://github.com/yourusername/GENETIC-ALGORITHM-FOR-UNIVERSITY-EXAM-SCHEDULE-GENERATION.git
-jupyter notebook main.ipynb
+git clone [https://github.com/yourusername/GENETIC-ALGORITHM-FOR-UNIVERSITY-EXAM-SCHEDULE-GENERATION.git](https://github.com/AbdullahButt-00/GENETIC-ALGORITHM-FOR-UNIVERSITY-EXAM-SCHEDULE-GENERATION.git)
+##### jupyter notebook main.ipynb
 
 ### How It Works
 #### The Genetic Algorithm operates as follows:
