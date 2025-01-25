@@ -23,16 +23,16 @@ git clone [https://github.com/yourusername/GENETIC-ALGORITHM-FOR-UNIVERSITY-EXAM
 
 ### How It Works
 #### The Genetic Algorithm operates as follows:
-Initialization: Creates a population of random schedules.
-Fitness Function: Evaluates each schedule based on constraints like avoiding conflicts and optimizing time slot usage.
-Selection: Selects the best-performing schedules.
-Crossover and Mutation: Combines and mutates schedules to produce a new generation.
-Iteration: Repeats the process until an optimal or near-optimal schedule is generated.
+###### Initialization: Creates a population of random schedules.
+###### Fitness Function: Evaluates each schedule based on constraints like avoiding conflicts and optimizing time slot usage.
+###### Selection: Selects the best-performing schedules.
+###### Crossover and Mutation: Combines and mutates schedules to produce a new generation.
+###### Iteration: Repeats the process until an optimal or near-optimal schedule is generated.
 
 ### Usage
-Open main.ipynb in Jupyter Notebook.
-Adjust parameters such as the population size, number of generations, and constraints as needed.
-Run the notebook to generate a schedule.
+###### Open main.ipynb in Jupyter Notebook.
+###### Adjust parameters such as the population size, number of generations, and constraints as needed.
+###### Run the notebook to generate a schedule.
 
 ### Acknowledgments
 Inspiration for this project came from real-world challenges in university exam scheduling.
